@@ -22,7 +22,7 @@ pip3 install -r requirements.txt
 # Usage
 ```
 python phonenumber.py <phone_number_with_country_code>
-```
+```+420776817764
 
 > Use `-o/--output` to save output to a file.
 
